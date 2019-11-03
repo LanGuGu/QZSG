@@ -9,7 +9,7 @@ public class GitStudyController {
 	
 	@RequestMapping("/hello")
 	public String hello() {
-		System.out.println("hello");
+		System.out.println("hello2");
 		return "hello11";
 	}
 }
