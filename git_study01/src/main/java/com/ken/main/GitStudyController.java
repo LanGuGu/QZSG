@@ -9,6 +9,6 @@ public class GitStudyController {
 	
 	@RequestMapping("/hello")
 	public String hello() {
-		return "hello7";
+		return "hello8";
 	}
 }
